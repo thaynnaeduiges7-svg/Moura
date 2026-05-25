@@ -1,0 +1,6 @@
+{
+  "name": "Moura Burguer",
+  "description": "Landing page moderna e saborosa para a hamburgueria artesanal Moura Burguer, com cardápio dinâmico, design responsivo e redirecionamento para pedidos via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
